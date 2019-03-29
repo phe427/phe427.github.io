@@ -8,7 +8,7 @@ intro:
   - excerpt: "PHE 427: An Introduction to Health Informatics, the field devoted to the optimal use of data, information, and knowledge to advance individual health, health care, public health, and health-related research."
 ---
 
-{% include feature_row id="intro" %}
+{% include feature_row id="intro" type="center" %}
 
 # Why Does Informatics Matter?
 
