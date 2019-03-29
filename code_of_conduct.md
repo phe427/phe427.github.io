@@ -5,11 +5,11 @@ layout: single
 
 ## 1. Purpose
 
-A primary goal of BioData Club is to be inclusive and of value to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
+A primary goal of PHE427: Health Informatics is to be inclusive and of value to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of age, gender, gender identity or expression, culture, ethnicity, language, national origin, political beliefs, profession, race, religion, sexual orientation, socioeconomic status, and technical ability. We will not tolerate discrimination based on any of the protected characteristics above, including participants with disabilities.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who attend and organize BioData Club meetings and virtual discussions to help us create safe and positive experiences for everyone.
+We invite all those who attend and organize PHE427 classes and  discussions to help us create safe and positive experiences for everyone.
 
 ## 2. Open Source Citizenship
 
@@ -70,15 +70,11 @@ If a community member engages in unacceptable behavior, the community organizers
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. tedladeras@gmail.com.
 
-
-
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 7. Addressing Grievances
 
 If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify Laderast with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
-
-
 
 ## 8. Scope
 

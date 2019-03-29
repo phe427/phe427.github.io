@@ -1,8 +1,6 @@
     
 # main links
 main:
-- title: "About"
-  url: /about/
 - title: "Code of Conduct"
   url: /code_of_conduct/
   # - title: "Sample Posts"
