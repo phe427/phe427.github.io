@@ -2,8 +2,6 @@
 title: Contributors
 ---
 
-{% assign sorted_contributors = site.contributors | sort: 'name' %}
-
-{% for contributor in sorted_contributors %}
+{% for contributor in site.contributors %}
   {% include contributor.html %}
 {% endfor %}
