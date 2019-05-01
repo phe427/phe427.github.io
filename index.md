@@ -25,3 +25,4 @@ As a class, we aim to answer the following questions:
 9. How can informatics help in identifying social determinants of health?
 10. How can we help neighbors/communities educate each other?
 11. How can informatics help in surveillance of disease outbreaks?
+s
