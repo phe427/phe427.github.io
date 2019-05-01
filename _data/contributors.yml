@@ -1,4 +1,6 @@
 - name: Ted Laderas
   role: Instructor
+  github_id: laderast
 - name: Bill Hersh
   role: Instructor
+  github_id: williamhersh
