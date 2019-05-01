@@ -28,7 +28,7 @@ As a class, we aim to answer the following questions:
 
 # Contributors
 
-{% assign sorted_contributors = site.contributors | sort: 'last_name' %}
+{% assign sorted_contributors = site.contributors | sort: 'name' %}
 
 {% for contributor in sorted_contributors %}
 - <b>{{ contributor.name }}</b> ({{ contributor.role }}) <br>
