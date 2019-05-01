@@ -31,5 +31,5 @@ As a class, we aim to answer the following questions:
 {% assign sorted_contributors = site.contributors | sort: 'name' %}
 
 {% for contributor in sorted_contributors %}
-- <b>{{ contributor.name }}</b> ({{ contributor.role }}) <br>
+<b>{{ contributor.name }}</b> ({{ contributor.role }}) <br>
 {% endfor %}
