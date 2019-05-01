@@ -3,8 +3,8 @@
 main:
 - title: "Code of Conduct"
   url: /code_of_conduct/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+- title: "Contributors"
+  url: /contributors/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

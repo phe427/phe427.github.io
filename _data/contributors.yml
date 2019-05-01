@@ -1,4 +1,4 @@
-- name: Ted Laderas
-  role: Instructor
-- name: Bill Hersh
-  role: Instructor
+- name: "Ted Laderas"
+  role: "Instructor"
+- name: "Bill Hersh"
+  role: "Instructor"
