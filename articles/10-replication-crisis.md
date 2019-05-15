@@ -4,10 +4,6 @@ author: "Ted Laderas"
 layout: single
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Question
 
 How can Informatics help address the replication crisis?
@@ -52,4 +48,4 @@ Informatics approaches to the replication crisis are both social and technical.
 # References
 
 [^1]: Does Health Informatics have a replication crisis? J Am Med Inform Assoc. 2018 Aug 1;25(8):963-968. doi: 10.1093/jamia/ocy028.
-[]:https://www.openscapes.org/
+[^2]: https://www.openscapes.org/

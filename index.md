@@ -14,8 +14,8 @@ intro:
 
 As a class, we aim to answer the following questions: 
 
-1. [What is informatics? How is it related to Data Science?](articles/01-what-is-informatics.md)
-2. How does informatics enable collaboration among different groups?
+1. [What is informatics? How is it related to Data Science?](articles/01-what-is-informatics/)
+2. [How does informatics help address the replication crisis?](articles/10-replication-crisis/)
 3. How can informatics help show geographical inequities in healthcare?
 4. How can informatics help tailor treatments for disease (Precision Medicine)?
 5. How can informatics help in public health education?
