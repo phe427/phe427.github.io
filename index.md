@@ -15,13 +15,12 @@ intro:
 As a class, we aim to answer the following questions: 
 
 1. [What is informatics? How is it related to Data Science?](articles/01-what-is-informatics/)
-2. [How does informatics help address the replication crisis?](articles/10-replication-crisis/)
-3. How can informatics help show geographical inequities in healthcare?
-4. How can informatics help tailor treatments for disease (Precision Medicine)?
-5. How can informatics help in public health education?
-6. How can informatics help aid in public health issues?
-7. How can informatics and electronic health records (EHRs) aid in public health reporting?
-8. How can informatics help serve underserved populations?
-9. How can informatics help in identifying social determinants of health?
-10. How can we help neighbors/communities educate each other?
-11. How can informatics help in surveillance of disease outbreaks?
+2. [How can informatics inform public health policy](articles/02-informatics_public_health_policy/)/?
+3. [How can informatics help serve underserved populations?](articles/03-informatics_underserved_populations/)
+4. [How can informatics help show geographical inequities in healthcare?](articles/04-informatics_geographical_iniquities/)
+5. [How can informatics aid in cohort discovery?](articles/05-informatics_cohort_discovery/)
+6. [How can informatics help in identifying social determinants of health?](06-informatics_social_determinants_health/)
+7. [How can informatics help in public health education?](articles/07-informatics_public_health_education/)
+8. [How can informatics help aid in public health issues?](articles/08-informatics_public_health_issues/)
+9. [How can informatics help in surveillance of disease outbreaks?](09-informatics_disease_outbreaks/)
+10. [How does informatics help address the replication crisis?](articles/10-replication-crisis/)
