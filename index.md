@@ -15,7 +15,7 @@ intro:
 As a class, we aim to answer the following questions: 
 
 1. [What is informatics? How is it related to Data Science?](articles/01-what-is-informatics/)
-2. [How can informatics inform public health policy](articles/02-informatics_public_health_policy/)/?
+2. [How can informatics inform public health policy?](articles/02-informatics_public_health_policy/)
 3. [How can informatics help serve underserved populations?](articles/03-informatics_underserved_populations/)
 4. [How can informatics help show geographical inequities in healthcare?](articles/04-informatics_geographical_iniquities/)
 5. [How can informatics aid in cohort discovery?](articles/05-informatics_cohort_discovery/)
