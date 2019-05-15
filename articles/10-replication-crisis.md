@@ -1,7 +1,6 @@
 ---
-title: "Replicabilty Crisis and Informatics"
+title: "Replication Crisis and Informatics"
 author: "Ted Laderas"
-date: "5/15/2019"
 layout: single
 ---
 
