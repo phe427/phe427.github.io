@@ -20,32 +20,46 @@ The replication crisis has implications beyond research. If findings are oversta
 
 There are many reasons for the replication crisis. I will separate them out into the *statistical*, *experimental* and *cultural* reasons. 
 
-*Cultural* reasons for the crisis include the pressure to publish in order to secure tenure-track positions. Many universities place a high priority for faculty to publish in prestige journals such as Nature and Cell. However, publishing in such journals requires publishing impactful results. This pressure to publish can cause researchers to overstate the significance of their findings, or in extreme cases, fabricate results. []
+*Cultural* reasons for the crisis include the pressure to publish in order to secure tenure-track positions. Many universities place a high priority for faculty to publish in prestige journals such as Nature and Cell. However, publishing in such journals requires publishing impactful results. This pressure to publish can cause researchers to overstate the significance of their findings, or in extreme cases, fabricate results. [^2]
 
-*Experimental* reasons include a lack of information about how experiments were conducted. There is a lot of information, or *metadata* about experiments, such as the date experiments were conducted, who conducted it, and other conditions that may not be communicated in short manuscripts. []
+*Experimental* reasons include a lack of information about how experiments were conducted. There is a lot of information, or *metadata* about experiments, such as the date experiments were conducted, who conducted it, and other conditions that may not be communicated in short manuscripts. [^2]
 
-*Statistical* reasons for the replication crisis include the small sample size of studies, which can dramatically lower our ability to detect differences within groups in that study. [] Additionally, inappropriate statistical methods such as p-hacking (conducting many statistical tests and only reporting the positive ones) may have been conducted. []
+*Statistical* reasons for the replication crisis include the small sample size of studies, which can dramatically lower our ability to detect differences within groups in that study. [^3] Additionally, inappropriate statistical methods such as p-hacking (conducting many statistical tests and only reporting the positive ones) may have been conducted. [^3]
 
 I will now discuss informatics solutions to the *cultural* and *experimental* reasons to the replication crisis.
 
 ## Informatics solutions to the replication crisis
 
-Many solutions to the replication crisis have to do with *metadata* and *open science*. Informatics approaches to replication include designing systems and workflows that collect metadata about experiments seamlessly, lessening the time researchers spend on these tasks. The required metadata for an experiment type is known as a *minimum information standard* and is now required for submitting the data to data repositories. []
+Many solutions to the replication crisis have to do with *metadata* and *open science*. Informatics approaches to replication include designing systems and workflows that collect metadata about experiments seamlessly, lessening the time researchers spend on these tasks. The required metadata for an experiment type is known as a *minimum information standard* and is now required for submitting the data to data repositories. [^4]
 
-Collection of metadata is part of the larger framework of *open science*, which emphasizes transparency in the scientific process. This transparency can be be within many aspects of the scientific method:
+Collection of metadata is part of the larger framework of *open science*, which emphasizes transparency in the scientific process. This transparency can be be within many aspects of the scientific method [^2]:
 
 - Open Publication, where published research findings are available to everyone,
 - Open Experimental Metadata and Protocols, where experimental methods are available,
 - Open Software, where analyses methods are made publically available,
 - Open Data, where researchers share the data with everyone.
 
-Open software, also known as *Open Source* software, emphasizes the transparency of analysis methods by making the *source code* available. With *source code*, the methods of 
+Adoption of open science practices has a number of requirements. Open software, also known as *Open Source* software, emphasizes the transparency of analysis methods by making the *source code* available. Many open source software development communities exist, such as rOpenSci. Open Data requires the use of data repositories and the adoption of standards such as FAIR (Findable, Accessible, Interoperable, and Reusable), and minimum experimental standards.[^4] 
+
+## Barriers to Adoption of Open Science Practices
+
+Adoption of open science practices has been strongly suggested by both funding institutions, such as the National Institute of Health, and by publishers, such as the Public Library of Open Science (PLOS). However adoption of these practices has been slow at academic institutions. Some of the barriers to adopting these practices include lack of education, lack of funding to implement these practices, and a perceived lack of value to participating in these practices.[^4] 
+
+Open sharing of data is also perceived to be detrimental to scientist's careers, in that "*research parasites*", or secondary users of the data, may not properly attribute this use of the data to the scientist who generated the data.[^5]  
+
+In order to counter this perception, educational initiatives and materials now exist that educate scientists and their labs about making their work replicable and open. [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction.html) emphasizes computational reproducibility through the use of open software tools. [Openscapes](https://www.openscapes.org/) attempts to teach open science practices, including team science, by recruiting whole labs to their training process. 
 
 # Conclusions
 
-Informatics approaches to the replication crisis are both social and technical. 
+The replication crisis has arisen due to *social*, *experimental* and *statistical* concerns. Informatics approaches to the replication crisis are both social and technical, and involve adoption of open science practices. However
 
 # References
 
-[^1]: Does Health Informatics have a replication crisis? J Am Med Inform Assoc. 2018 Aug 1;25(8):963-968. doi: 10.1093/jamia/ocy028.
-[^2]: https://www.openscapes.org/
+[^1]: Coiera, E., Ammenwerth, E., Georgiou, A., & Magrabi, F. (2018). Does health informatics have a replication crisis? *Journal of the American Medical Informatics Association*: JAMIA, 25(8), 963–968. http://dx.doi.org/10.1093/jamia/ocy028 
+[^2]: [Challenges and strategies for the success of Open Science](https://www.fosteropenscience.eu/content/challenges-and-strategies-success-open-science)
+[^3]: Ioannidis, J. P. (2005). Why Most Published Research Findings Are False. *PLoS Medicine*, 2(8). http://dx.doi.org/10.1371/journal.pmed.0020124
+[^4]: [MIBBI: - Minimum Information for Biological and Biomedical Investigations](http://www.dcc.ac.uk/resources/metadata-standards/mibbi-minimum-information-biological-and-biomedical-investigations)
+[^5]: Longo, D. L., & Drazen, J. M. (2016). Data Sharing. *The New England Journal of Medicine*, 374(3), 276–277. http://dx.doi.org/10.1056/NEJMe1516564
+[^6]: Greene, C. S., Garmire, L. X., Gilbert, J. A., Ritchie, M. D., & Hunter, L. E. (2017). Celebrating parasites. *Nature Genetics*, 49(4), 483–484. http://dx.doi.org/10.1038/ng.3830
+[^7]: [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction.html)
+[^8]: [Openscapes](https://www.openscapes.org/).
