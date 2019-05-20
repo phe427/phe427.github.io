@@ -45,13 +45,13 @@ Adoption of open science practices has a number of requirements. Open software, 
 
 Adoption of open science practices has been strongly suggested by both funding institutions, such as the National Institute of Health, and by publishers, such as the Public Library of Open Science (PLOS). However adoption of these practices has been slow at academic institutions. Some of the barriers to adopting these practices include lack of education, lack of funding to implement these practices, and a perceived lack of value to participating in these practices.[^4] 
 
-Open sharing of data is also perceived to be detrimental to scientist's careers, in that "*research parasites*", or secondary users of the data, may not properly attribute this use of the data to the scientist who generated the data.[^5]  
+Open sharing of data is also perceived to be detrimental to scientist's careers, in that "*research parasites*", or secondary users of the data, may not properly attribute this use of the data to the scientist who generated the data.[^5][^6]  
 
-In order to counter this perception, educational initiatives and materials now exist that educate scientists and their labs about making their work replicable and open. [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction.html) emphasizes computational reproducibility through the use of open software tools. [Openscapes](https://www.openscapes.org/) attempts to teach open science practices, including team science, by recruiting whole labs to their training process. 
+In order to counter this perception, educational initiatives and materials now exist that educate scientists and their labs about making their work replicable and open. [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction.html) emphasizes computational reproducibility through the use of open software tools.[^7] [Openscapes](https://www.openscapes.org/) attempts to teach open science practices, including team science, by recruiting whole labs to their training process.[^8] 
 
 # Conclusions
 
-The replication crisis has arisen due to *social*, *experimental* and *statistical* concerns. Informatics approaches to the replication crisis are both social and technical, and involve adoption of open science practices. However
+The replication crisis has arisen due to *social*, *experimental* and *statistical* concerns. Informatics approaches to the replication crisis are both social and technical, and involve adoption of open science practices. However, adoption of these practices has a number of barriers that must be overcome.
 
 # References
 
